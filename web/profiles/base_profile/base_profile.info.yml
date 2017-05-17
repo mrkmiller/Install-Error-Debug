@@ -1,0 +1,31 @@
+name: Base Profile
+type: profile
+description: 'A test base profile.'
+version: VERSION
+core: 8.x
+dependencies:
+  - node
+  - block
+  - config
+  - menu_link_content
+  - datetime
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - toolbar
+  - field_ui
+  - file
+  # Contrib
+  - features
+  # Custom
+  - z_base_block
+
+themes:
+  - stark
+  - seven
