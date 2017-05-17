@@ -24,7 +24,7 @@ dependencies:
   # Contrib
   - features
   # Custom
-  - z_base_block
+  - a_base_block
 
 themes:
   - stark
